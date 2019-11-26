@@ -1,0 +1,10 @@
+C:\Users\mtome\source\repos\Windows\Windows\bin\Debug\Windows.exe.config
+C:\Users\mtome\source\repos\Windows\Windows\bin\Debug\Windows.exe
+C:\Users\mtome\source\repos\Windows\Windows\bin\Debug\Windows.pdb
+C:\Users\mtome\source\repos\Windows\Windows\obj\Debug\Windows.csprojAssemblyReference.cache
+C:\Users\mtome\source\repos\Windows\Windows\obj\Debug\Windows.Properties.Resources.resources
+C:\Users\mtome\source\repos\Windows\Windows\obj\Debug\Windows.csproj.GenerateResource.cache
+C:\Users\mtome\source\repos\Windows\Windows\obj\Debug\Windows.csproj.CoreCompileInputs.cache
+C:\Users\mtome\source\repos\Windows\Windows\obj\Debug\Windows.exe
+C:\Users\mtome\source\repos\Windows\Windows\obj\Debug\Windows.pdb
+C:\Users\mtome\source\repos\Windows\Windows\obj\Debug\Windows.Window.resources
